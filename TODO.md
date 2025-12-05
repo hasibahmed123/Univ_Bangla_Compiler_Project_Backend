@@ -1,4 +1,4 @@
-# TODO: Fix Bangla Compiler for All 14 Tests
+ Fix Bangla Compiler for All 5 Tests
 
 - [ ] Update lexer.cpp: Add "দশ" to banglaKeywords map as NUM 10.
 - [ ] Update evaluator.cpp: Change LEKHO output to just value/string without prefix.
